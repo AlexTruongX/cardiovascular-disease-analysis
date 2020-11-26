@@ -1,1 +1,1 @@
-# cardiovascular-disease-study
+# Case study on Cardiovascular Disease
