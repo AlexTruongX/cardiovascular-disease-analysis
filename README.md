@@ -12,6 +12,6 @@ This repository is [AlexTruongX](https://github.com/AlexTruong)'s project work f
 * The contents of this project are licensed for reuse under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/)
 * Course web-page: http://data8.org/sp20/
 * Original skeleton repository: https://github.com/data-8/materials-sp20
-* Framingham Heart Studyhttps://en.wikipedia.org/wiki/Framingham_Heart_Study
+* Framingham Heart Study: https://en.wikipedia.org/wiki/Framingham_Heart_Study
 * The Nurses' Health Study: https://www.ncbi.nlm.nih.gov/pubmed/4047106
 * CDC: https://www.cdc.gov/diabetes/statistics/slides/long_term_trends.pdf
